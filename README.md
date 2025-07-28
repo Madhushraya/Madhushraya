@@ -1,4 +1,4 @@
-<h1 aling="centre">Hi 👋, I'm Madhu Shraya</h1>
+<h1 aling="center">Hi 👋, I'm Madhu Shraya</h1>
 <h3 align="center">Aspiring Data Scientist | AI Enthusiast from India</h3>
 
 - 🔍 I’m passionate about **Data Science, Machine Learning, and AI systems**  
