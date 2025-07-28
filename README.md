@@ -1,5 +1,17 @@
 <h1>Hi 👋, I'm Madhu Shraya</h1>
-<p>A passionate ML Engineer from Chennai, India </p>
+<h3 align="center">Aspiring Data Scientist | AI Enthusiast from India</h3>
+
+- 🔍 I’m passionate about **Data Science, Machine Learning, and AI systems**  
+- 📊 Currently exploring **predictive modeling, deep learning, and data storytelling**  
+- 🛠️ Building projects with **Python, Streamlit, FastAPI, and CrewAI**  
+- 🤝 Open to collaborating on **data-driven projects or research**  
+- 🧠 Actively learning **ML algorithms, LangChain, and agent-based frameworks**  
+- 💡 Looking for mentorship or guidance in **model deployment and frontend visualization**  
+- 📂 Check out my work at: [https://github.com/ashvp?tab=repositories](https://github.com/ashvp?tab=repositories)  
+- 💬 Ask me about **end-to-end ML pipelines, Streamlit apps, or backend APIs**
+
+
+- 📫 How to reach me **madhushraya@gmail.com**
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42" /></a>
