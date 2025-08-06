@@ -7,7 +7,7 @@
 - 🤝 Open to collaborating on **data-driven projects or research**  
 - 🧠 Actively learning **ML algorithms, LangChain, and agent-based frameworks**  
 - 💡 Looking for mentorship or guidance in **model deployment and frontend visualization**  
-- 📂 Check out my work at: [https://github.com/ashvp?tab=repositories](https://github.com/Madhushraya?tab=repositories)  
+- 📂 Check out my work at: [https://github.com/Madhushraya?tab=repositories](https://github.com/Madhushraya?tab=repositories)  
 - 💬 Ask me about **end-to-end ML pipelines, Streamlit apps, or backend APIs**
 
 
